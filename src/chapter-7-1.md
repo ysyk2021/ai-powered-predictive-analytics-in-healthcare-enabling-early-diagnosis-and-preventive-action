@@ -1,5 +1,4 @@
-Overview of AI applications for preventive action and treatment planning in healthcare
-===============================================================================================================================================================
+
 
 In this chapter, we will provide an overview of the various AI applications for preventive action and treatment planning in healthcare. By understanding the different ways that AI can be used to improve healthcare outcomes, we can better appreciate the potential impact of these technologies on patient care.
 

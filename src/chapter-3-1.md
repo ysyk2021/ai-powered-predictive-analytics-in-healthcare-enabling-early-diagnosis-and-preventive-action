@@ -1,5 +1,4 @@
-Assessing Your Healthcare Needs and Goals
-========================================================================================================================
+
 
 Preparing for artificial intelligence (AI) implementation in healthcare predictive analytics requires assessing your healthcare needs and goals. In this chapter, we will explore the importance of assessing your healthcare needs and goals, best practices for assessment, and strategies for aligning AI technologies with your healthcare needs and goals.
 

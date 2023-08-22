@@ -1,5 +1,4 @@
-Overview of AI Tools and Technologies for Healthcare Predictive Analytics
-======================================================================================================================================================================
+
 
 Choosing the right artificial intelligence (AI) tools and technologies is essential for successful implementation of healthcare predictive analytics. In this chapter, we will provide an overview of AI tools and technologies for healthcare predictive analytics.
 

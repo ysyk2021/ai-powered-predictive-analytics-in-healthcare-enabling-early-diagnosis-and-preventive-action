@@ -1,5 +1,4 @@
-Evaluating Data Availability and Quality
-=======================================================================================================================
+
 
 Preparing for artificial intelligence (AI) implementation in healthcare predictive analytics requires evaluating data availability and quality. In this chapter, we will explore the importance of evaluating data availability and quality, best practices for data evaluation, and strategies for improving data quality.
 

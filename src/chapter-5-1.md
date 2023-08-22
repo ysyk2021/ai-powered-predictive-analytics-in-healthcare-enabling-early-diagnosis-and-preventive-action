@@ -1,5 +1,4 @@
-Importance of Data Collection and Analysis for Healthcare Predictive Analytics
-====================================================================================================================================================================
+
 
 Data collection and analysis are critical in healthcare predictive analytics using artificial intelligence (AI) technologies. In this chapter, we will explore the importance of data collection and analysis in healthcare predictive analytics.
 

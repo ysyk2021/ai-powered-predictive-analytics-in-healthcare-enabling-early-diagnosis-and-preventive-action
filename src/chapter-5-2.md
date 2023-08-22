@@ -1,5 +1,4 @@
-Best practices for data collection and preparation
-========================================================================================================================================
+
 
 As healthcare organizations continue to adopt AI-powered predictive analytics, it is crucial to ensure that high-quality data is collected and analyzed in order to produce accurate predictions. In this chapter, we will discuss the best practices for data collection and preparation when using AI for healthcare predictive analytics.
 

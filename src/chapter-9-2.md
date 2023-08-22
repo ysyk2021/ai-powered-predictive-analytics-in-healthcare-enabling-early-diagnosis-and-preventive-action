@@ -1,5 +1,4 @@
-Developing governance frameworks to ensure responsible AI use
-======================================================================================================================================
+
 
 As the use of artificial intelligence (AI) in healthcare predictive analytics continues to grow, it is important to consider the ethical implications of these technologies. In this chapter, we will explore the need for AI ethics and governance in healthcare predictive analytics and discuss strategies for developing governance frameworks to ensure responsible AI use.
 
