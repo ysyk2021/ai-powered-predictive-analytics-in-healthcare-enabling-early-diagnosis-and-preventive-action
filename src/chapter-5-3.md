@@ -1,5 +1,4 @@
 
-
 Collecting and analyzing data is essential to the success of AI-powered predictive analytics in healthcare. In this chapter, we will explore the use of AI algorithms for data analysis and pattern recognition in healthcare predictive analytics.
 
 Data Collection

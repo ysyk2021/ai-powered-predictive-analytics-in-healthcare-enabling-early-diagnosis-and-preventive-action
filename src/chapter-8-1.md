@@ -1,5 +1,4 @@
 
-
 Assessing the impact of AI on healthcare predictive analytics is essential to ensure that the technology is delivering tangible benefits to patients and healthcare providers. In this chapter, we will explore how to measure the effectiveness of AI for healthcare predictive analytics.
 
 Key Performance Indicators for AI in Healthcare Predictive Analytics

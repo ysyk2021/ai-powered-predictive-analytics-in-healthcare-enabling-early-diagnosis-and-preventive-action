@@ -1,5 +1,4 @@
 
-
 One of the primary benefits of AI-powered predictive analytics in healthcare is the ability to enable early detection and diagnosis of diseases. In this chapter, we will provide an overview of the different AI applications for early detection and diagnosis in healthcare.
 
 Medical Imaging

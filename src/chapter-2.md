@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) is transforming healthcare by enabling early diagnosis and preventive action through predictive analytics. In this chapter, we will explore the definition of AI-powered predictive analytics in healthcare, types of AI used for predictive analytics in healthcare, and benefits of AI for improving early diagnosis and preventive action in healthcare.
 
 Definition of AI-Powered Predictive Analytics in Healthcare
