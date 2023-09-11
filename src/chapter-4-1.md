@@ -1,5 +1,4 @@
-Chapter 2: Overview of AI Tools and Technologies for Healthcare Predictive Analytics
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the AI tools and technologies that are instrumental in enabling healthcare predictive analytics. AI-powered predictive analytics has revolutionized the healthcare industry by providing valuable insights, early diagnosis, and preventive action to enhance patient care and outcomes. Understanding the various AI tools and technologies is essential for leveraging their potential in healthcare. Let's delve into the key AI tools and technologies used in healthcare predictive analytics.
 

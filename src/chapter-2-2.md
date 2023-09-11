@@ -1,5 +1,4 @@
-Chapter 5: Types of AI Used for Predictive Analytics in Healthcare
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of artificial intelligence (AI) used for predictive analytics in healthcare. AI-powered predictive analytics leverages various AI techniques and algorithms to analyze healthcare data, extract meaningful insights, and make predictions about health outcomes. Let's examine some of the key types of AI commonly employed in healthcare predictive analytics.
 

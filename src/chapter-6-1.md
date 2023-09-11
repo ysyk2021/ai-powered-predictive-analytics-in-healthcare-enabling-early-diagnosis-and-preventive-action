@@ -1,5 +1,4 @@
-Chapter 3: Overview of AI Applications for Early Detection and Diagnosis in Healthcare
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide an overview of the broad range of AI applications for early detection and diagnosis in healthcare. The integration of AI-powered predictive analytics has revolutionized the field by enabling healthcare providers to identify diseases at their earliest stages, leading to timely interventions and improved patient outcomes. Understanding the diverse AI applications in early detection and diagnosis is essential for harnessing the full potential of AI in healthcare. Let's explore some key AI applications in this domain.
 

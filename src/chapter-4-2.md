@@ -1,5 +1,4 @@
-Chapter 7: Key Factors to Consider When Choosing AI Tools
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the key factors that healthcare organizations should consider when choosing AI tools for predictive analytics in healthcare. Selecting the right AI tools is crucial for successful implementation and integration into existing workflows. The following factors should be taken into account to ensure the effectiveness, reliability, and ethical use of AI in healthcare.
 

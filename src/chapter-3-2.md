@@ -1,5 +1,4 @@
-Chapter: Evaluating Data Availability and Quality
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the importance of evaluating data availability and quality for successful implementation of AI-powered predictive analytics in healthcare. Accurate and comprehensive data is essential for training robust AI models that can enable early diagnosis and preventive action. We will discuss key considerations and strategies for assessing data availability, ensuring data quality, and addressing challenges to maximize the effectiveness of AI-driven healthcare analytics.
 
